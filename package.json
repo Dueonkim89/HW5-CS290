@@ -1,0 +1,24 @@
+{
+  "name": "hw5-cs290",
+  "version": "1.0.0",
+  "description": "Hw 5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dueonkim89/HW5-CS290.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dueonkim89/HW5-CS290/issues"
+  },
+  "homepage": "https://github.com/Dueonkim89/HW5-CS290#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^2.0.0"
+  }
+}
